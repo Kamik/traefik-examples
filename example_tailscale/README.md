@@ -1,1 +1,1 @@
-You can find an example on this page: [https://frigi.ch/en/2024/05/how-to-use-tailscale-certificates-with-traefik/](https://frigi.ch/en/2024/05/how-to-use-tailscale-certificates-with-traefik/)
+You can find an example on this page: [https://frigi.ch/en/article/2024-tailscale-traefik/](https://frigi.ch/en/article/2024-tailscale-traefik/)
